@@ -1,7 +1,7 @@
 AdventOfCode Meta
 =================
 
-A table of contents for my previous [Advent of Code](https://adventofcode.com/)
+A table of contents for my [Advent of Code](https://adventofcode.com/)
 solutions.
 
 * [2021](https://github.com/jabbalaci/AdventOfCode2021), Python / Julia
