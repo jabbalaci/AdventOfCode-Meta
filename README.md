@@ -3,6 +3,7 @@ AdventOfCode Meta
 
 A table of contents for my [Advent of Code](https://adventofcode.com/) solutions.
 
+* [2023](https://github.com/jabbalaci/AdventOfCode2023), Python
 * [2022](https://github.com/jabbalaci/AdventOfCode2022), Python / Go
 * [2021](https://github.com/jabbalaci/AdventOfCode2021), Python / Julia
 * [2020](https://github.com/jabbalaci/AdventOfCode2020), Python (with some C#)
