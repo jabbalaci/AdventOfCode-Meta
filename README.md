@@ -3,7 +3,8 @@ AdventOfCode Meta
 
 A table of contents for my [Advent of Code](https://adventofcode.com/) solutions.
 
-* [2025](https://github.com/jabbalaci/AdventOfCode2025), D
+* [2026](https://github.com/jabbalaci/AdventOfCode2026), Nim
+* [2025](https://github.com/jabbalaci/AdventOfCode2025), Python, D
 * [2024](https://github.com/jabbalaci/AdventOfCode2024), Python
 * [2023](https://github.com/jabbalaci/AdventOfCode2023), Python
 * [2022](https://github.com/jabbalaci/AdventOfCode2022), Python / Go
@@ -13,4 +14,4 @@ A table of contents for my [Advent of Code](https://adventofcode.com/) solutions
 * [2018](https://github.com/jabbalaci/AdventOfCode2018), Nim
 * [2017](https://github.com/jabbalaci/aoc2017), Kotlin
 * 2016, wasn't uploaded to GitHub (available locally at `~/Dropbox/AdventOfCode-All/AdventOfCode2016`), Python
-* [2015](https://github.com/jabbalaci/AdventOfCode2015), D
+* [2015](https://github.com/jabbalaci/AdventOfCode2015), D (Python code got lost)
